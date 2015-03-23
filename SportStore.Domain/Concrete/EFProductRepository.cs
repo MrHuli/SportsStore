@@ -2,7 +2,7 @@
 using SportsStore.Domain.Entities;
 using System.Collections.Generic;
 
-namespace SportStore.Domain.Concrete
+namespace SportsStore.Domain.Concrete
 {
     public class EFProductRepository : IProductRepository
     {
